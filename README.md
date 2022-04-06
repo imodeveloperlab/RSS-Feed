@@ -3,11 +3,8 @@ RSS-Feed App template
 
 <p>
   <img src="https://img.shields.io/badge/Swift-5.5-brightgreen.svg" />
-    <a href="https://swift.org/package-manager">
-        <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
-    </a>
-    <img src="https://img.shields.io/badge/iOS-13+-brightgreen.svg?style=flat" alt="iOS"/>
-    <img src="https://circleci.com/gh/imodeveloperlab/dskit/tree/main.svg?style=shield" alt="iOS"/>  
+  <img src="https://img.shields.io/badge/iOS-13+-brightgreen.svg?style=flat" alt="iOS"/>
+  <img src="https://circleci.com/gh/imodeveloperlab/dskit/tree/main.svg?style=shield" alt="iOS"/>  
 </p>
 
 <p>
@@ -46,3 +43,18 @@ let propertyListServerResourceUrl = "https://dskit.app/rss_feed.plist"
 // filters to be shown, just set `let filters = [String]()` empty array
 let filters = ["SwiftUI", "AppKit", "WWDC", "Shazam Kit", "XCode", "Catalyst", "Streamline"]
 ```
+
+## UI
+
+<table>
+  <tr>
+    <td><img src="Content/Images/1.png"/></td>
+    <td><img src="Content/Images/2.png"/></td>
+    <td><img src="Content/Images/6.png"/></td>
+  <tr>  
+   <tr>
+    <td><img src="Content/Images/4.png"/></td>
+    <td><img src="Content/Images/5.png"/></td>
+    <td><img src="Content/Images/3.png"/></td>
+  </tr>  
+</table>
