@@ -46,3 +46,18 @@ let propertyListServerResourceUrl = "https://dskit.app/rss_feed.plist"
 // filters to be shown, just set `let filters = [String]()` empty array
 let filters = ["SwiftUI", "AppKit", "WWDC", "Shazam Kit", "XCode", "Catalyst", "Streamline"]
 ```
+
+## UI
+
+<table>
+  <tr>
+    <td><img src="Content/Images/1.png"/></td>
+    <td><img src="Content/Images/2.png"/></td>
+    <td><img src="Content/Images/6.png"/></td>
+  <tr>  
+   <tr>
+    <td><img src="Content/Images/4.png"/></td>
+    <td><img src="Content/Images/5.png"/></td>
+    <td><img src="Content/Images/3.png"/></td>
+  </tr>  
+</table>
