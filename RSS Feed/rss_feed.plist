@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced Swift</key>
+	<string>https://www.advancedswift.com/rss/</string>
+	<key>IOSCREATOR</key>
+	<string>https://www.ioscreator.com/tutorials?format=RSS</string>
+	<key>Ole Begemann&apos;s Blog</key>
+	<string>https://oleb.net/feed</string>
+	<key>SwiftLee Blog</key>
+	<string>https://www.avanderlee.com/feed/</string>
+	<key>YASB</key>
+	<string>https://www.vadimbulavin.com/feed.xml</string>
+	<key>The.Swift.Dev</key>
+	<string>https://theswiftdev.com/rss.xml</string>
+	<key>Swift by Sundell</key>
+	<string>https://swiftbysundell.com/rss</string>
+	<key>Hacking with Swift</key>
+	<string>https://www.hackingwithswift.com/articles/rss</string>
+</dict>
+</plist>
