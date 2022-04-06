@@ -151,13 +151,9 @@
 				4133A45026527916007F5778 /* Appearance.swift */,
 				4133A4482652462F007F5778 /* Config.swift */,
 				41F398E7265CD61900F17C2D /* rss_feed.plist */,
-				41F398E4265CD5AC00F17C2D /* Server */,
-				4133A405265243AA007F5778 /* ViewControllers */,
-				4133A43126524462007F5778 /* RSS */,
-				4133A41D2652440B007F5778 /* UI */,
-				4133A410265243DD007F5778 /* Article */,
-				4133A42626524448007F5778 /* DataStorage */,
-				4133A43E265244A1007F5778 /* Extensions */,
+				60C4744127FDCF3B00C12FA7 /* View */,
+				60C4744227FDCF5300C12FA7 /* Model */,
+				4133A43E265244A1007F5778 /* Utils */,
 				4133A3EB26524142007F5778 /* Main.storyboard */,
 				4133A3EE26524144007F5778 /* Assets.xcassets */,
 				4133A3F026524144007F5778 /* LaunchScreen.storyboard */,
@@ -224,13 +220,13 @@
 			path = RSS;
 			sourceTree = "<group>";
 		};
-		4133A43E265244A1007F5778 /* Extensions */ = {
+		4133A43E265244A1007F5778 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
 				4132597B2672317700362C53 /* UIImage+Helpers.swift */,
 				41FC813A265D4FE1006D070E /* String+Extensions.swift */,
 			);
-			path = Extensions;
+			path = Utils;
 			sourceTree = "<group>";
 		};
 		4133A46C26529DE5007F5778 /* Mapping */ = {
@@ -269,6 +265,26 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		60C4744127FDCF3B00C12FA7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4133A41D2652440B007F5778 /* UI */,
+				4133A405265243AA007F5778 /* ViewControllers */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		60C4744227FDCF5300C12FA7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				41F398E4265CD5AC00F17C2D /* Server */,
+				4133A43126524462007F5778 /* RSS */,
+				4133A410265243DD007F5778 /* Article */,
+				4133A42626524448007F5778 /* DataStorage */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
