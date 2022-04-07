@@ -45,6 +45,13 @@ let propertyListServerResourceUrl = "https://dskit.app/rss_feed.plist"
 let filters = ["SwiftUI", "AppKit", "WWDC", "Shazam Kit", "XCode", "Catalyst", "Streamline"]
 ```
 
+## Documentation
+
+* [Documentation](https://dskit.app/components)
+* [Code Example](https://dskit.app/home-code-example)
+* [Layout](https://dskit.app/layout)
+* [Appearance](https://dskit.app/appearance)
+
 ## Interfaces
 
 <table>
