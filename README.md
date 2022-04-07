@@ -12,6 +12,7 @@ This project is powered by <a href="https://github.com/imodeveloperlab/dskit"> D
 </p>
 
 ## Config
+You can config your app to load any rss source.
 
 ```swift
 // Update once in 5 minutes by default, time interval in seconds
@@ -44,7 +45,7 @@ let propertyListServerResourceUrl = "https://dskit.app/rss_feed.plist"
 let filters = ["SwiftUI", "AppKit", "WWDC", "Shazam Kit", "XCode", "Catalyst", "Streamline"]
 ```
 
-## UI
+## Interfaces
 
 <table>
   <tr>
