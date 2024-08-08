@@ -4,6 +4,10 @@
     <img src="https://d33wubrfki0l68.cloudfront.net/8b768c96cdda974aab2db79cf853e3145fb2a324/bae98/images/app/rssfeed-demo-app.png" width="50%" alt="DSKit"/>
 </p>
 
+> [!WARNING]
+> Support for the **UIKit** version of DSKit is discontinued as the focus shifts increasingly towards **SwiftUI**, which offers easier development and maintenance. For more information or to migrate, please visit the <a href="https://github.com/imodeveloperlab/dskit-swiftui">**SwiftUI** version.
+
+Welcome to **DSKit** a Design System for iOS 13+ is an iOS SDK written in Swift with a collection of reusable components, guided by clear standards, that can be assembled to build any number of applications.
 
 
 # RSS-Feed
